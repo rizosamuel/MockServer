@@ -171,6 +171,146 @@
       },
       "rating": 4.7,
       "reviewCount": 1500
+    },
+    {
+      "id": "11",
+      "name": "Logitech MX Master 3S",
+      "description": "Advanced wireless mouse with ergonomic design.",
+      "price": 99.99,
+      "imageURL": "https://example.com/mxmaster3s.jpg",
+      "category": {
+        "id": "1",
+        "name": "Accessories",
+        "imageURL": "https://example.com/accessories.jpg"
+      },
+      "rating": 4.8,
+      "reviewCount": 2500
+    },
+    {
+      "id": "12",
+      "name": "Anker PowerCore 26800",
+      "description": "High-capacity portable power bank with fast charging.",
+      "price": 59.99,
+      "imageURL": "https://example.com/powercore26800.jpg",
+      "category": {
+        "id": "1",
+        "name": "Accessories",
+        "imageURL": "https://example.com/accessories.jpg"
+      },
+      "rating": 4.7,
+      "reviewCount": 1800
+    },
+    {
+      "id": "13",
+      "name": "Razer BlackWidow V4",
+      "description": "Mechanical gaming keyboard with RGB lighting.",
+      "price": 169.99,
+      "imageURL": "https://example.com/blackwidowv4.jpg",
+      "category": {
+        "id": "2",
+        "name": "Gaming",
+        "imageURL": "https://example.com/gaming.jpg"
+      },
+      "rating": 4.9,
+      "reviewCount": 3200
+    },
+    {
+      "id": "14",
+      "name": "HyperX Cloud II",
+      "description": "Comfortable gaming headset with 7.1 surround sound.",
+      "price": 99.99,
+      "imageURL": "https://example.com/hyperxcloud2.jpg",
+      "category": {
+        "id": "2",
+        "name": "Gaming",
+        "imageURL": "https://example.com/gaming.jpg"
+      },
+      "rating": 4.7,
+      "reviewCount": 2100
+    },
+    {
+      "id": "15",
+      "name": "Ring Video Doorbell 4",
+      "description": "Smart doorbell with HD video and motion detection.",
+      "price": 199.99,
+      "imageURL": "https://example.com/ringdoorbell4.jpg",
+      "category": {
+        "id": "3",
+        "name": "Smart Home",
+        "imageURL": "https://example.com/smarthome.jpg"
+      },
+      "rating": 4.6,
+      "reviewCount": 1500
+    },
+    {
+      "id": "16",
+      "name": "Philips Hue Smart Bulb",
+      "description": "Color-changing smart bulb with voice control.",
+      "price": 49.99,
+      "imageURL": "https://example.com/huesmartbulb.jpg",
+      "category": {
+        "id": "3",
+        "name": "Smart Home",
+        "imageURL": "https://example.com/smarthome.jpg"
+      },
+      "rating": 4.8,
+      "reviewCount": 2900
+    },
+    {
+      "id": "17",
+      "name": "Fitbit Charge 5",
+      "description": "Advanced fitness tracker with heart rate monitoring.",
+      "price": 149.99,
+      "imageURL": "https://example.com/fitbitcharge5.jpg",
+      "category": {
+        "id": "4",
+        "name": "Wearables",
+        "imageURL": "https://example.com/wearables.jpg"
+      },
+      "rating": 4.7,
+      "reviewCount": 3400
+    },
+    {
+      "id": "18",
+      "name": "Eero Pro 6",
+      "description": "Tri-band mesh Wi-Fi system for whole-home coverage.",
+      "price": 299.99,
+      "imageURL": "https://example.com/eeropro6.jpg",
+      "category": {
+        "id": "5",
+        "name": "Networking",
+        "imageURL": "https://example.com/networking.jpg"
+      },
+      "rating": 4.8,
+      "reviewCount": 2100
+    },
+    {
+      "id": "19",
+      "name": "LG C2 OLED TV",
+      "description": "4K OLED TV with stunning picture quality.",
+      "price": 1799.99,
+      "imageURL": "https://example.com/lgc2oled.jpg",
+      "category": {
+        "id": "6",
+        "name": "TVs",
+        "imageURL": "https://example.com/tvs.jpg"
+      },
+      "rating": 4.9,
+      "reviewCount": 2700
+    },
+    {
+      "id": "20",
+      "name": "Nest Learning Thermostat",
+      "description": "Smart thermostat that learns your preferences.",
+      "price": 249.99,
+      "imageURL": "https://example.com/nestthermostat.jpg",
+      "category": {
+        "id": "3",
+        "name": "Smart Home",
+        "imageURL": "https://example.com/smarthome.jpg"
+      },
+      "rating": 4.7,
+      "reviewCount": 2300
     }
   ]
 }
