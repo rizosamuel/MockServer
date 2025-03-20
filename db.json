@@ -1,0 +1,114 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "name": "iPhone 15 Pro",
+      "description": "Apple's latest flagship smartphone with A17 chip.",
+      "price": 999.99,
+      "imageURL": "https://example.com/iphone15pro.jpg",
+      "category": "Smartphones",
+      "rating": 4.8,
+      "reviewCount": 3500
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S23 Ultra",
+      "description": "Premium Android smartphone with a 200MP camera.",
+      "price": 1199.99,
+      "imageURL": "https://example.com/galaxys23ultra.jpg",
+      "category": "Smartphones",
+      "rating": 4.7,
+      "reviewCount": 2800
+    },
+    {
+      "id": "3",
+      "name": "Sony WH-1000XM5",
+      "description": "Wireless noise-canceling headphones with superior sound quality.",
+      "price": 399.99,
+      "imageURL": "https://example.com/sonywh1000xm5.jpg",
+      "category": "Headphones",
+      "rating": 4.9,
+      "reviewCount": 5000
+    },
+    {
+      "id": "4",
+      "name": "MacBook Pro 16-inch (M3)",
+      "description": "Apple's latest MacBook Pro with M3 chip and Retina display.",
+      "price": 2499.99,
+      "imageURL": "https://example.com/macbookpro16.jpg",
+      "category": "Laptops",
+      "rating": 4.8,
+      "reviewCount": 2100
+    },
+    {
+      "id": "5",
+      "name": "Dell XPS 15",
+      "description": "Powerful Windows laptop with 4K OLED display.",
+      "price": 1899.99,
+      "imageURL": "https://example.com/dellxps15.jpg",
+      "category": "Laptops",
+      "rating": 4.7,
+      "reviewCount": 1800
+    },
+    {
+      "id": "6",
+      "name": "Apple Watch Series 9",
+      "description": "Advanced smartwatch with fitness tracking and ECG.",
+      "price": 429.99,
+      "imageURL": "https://example.com/applewatch9.jpg",
+      "category": "Wearables",
+      "rating": 4.6,
+      "reviewCount": 3200
+    },
+    {
+      "id": "7",
+      "name": "Garmin Fenix 7",
+      "description": "Rugged GPS smartwatch with health tracking.",
+      "price": 699.99,
+      "imageURL": "https://example.com/garminfenix7.jpg",
+      "category": "Wearables",
+      "rating": 4.8,
+      "reviewCount": 1100
+    },
+    {
+      "id": "8",
+      "name": "Sony A7 IV",
+      "description": "Full-frame mirrorless camera with 4K video.",
+      "price": 2499.99,
+      "imageURL": "https://example.com/sonya7iv.jpg",
+      "category": "Cameras",
+      "rating": 4.9,
+      "reviewCount": 800
+    },
+    {
+      "id": "9",
+      "name": "Canon EOS R5",
+      "description": "Professional mirrorless camera with 8K video recording.",
+      "price": 3799.99,
+      "imageURL": "https://example.com/canoneosr5.jpg",
+      "category": "Cameras",
+      "rating": 4.8,
+      "reviewCount": 600
+    },
+    {
+      "id": "10",
+      "name": "Bose QuietComfort Earbuds II",
+      "description": "True wireless earbuds with industry-leading noise cancellation.",
+      "price": 279.99,
+      "imageURL": "https://example.com/boseqc2.jpg",
+      "category": "Headphones",
+      "rating": 4.7,
+      "reviewCount": 1500
+    },
+    {
+      "id": "11",
+      "name": "Logitech MX Master 3S",
+      "description": "Ergonomic wireless mouse with ultra-fast scrolling.",
+      "price": 99.99,
+      "imageURL": "https://example.com/logitechmxmaster3s.jpg",
+      "category": "Accessories",
+      "rating": 4.8,
+      "reviewCount": 2400
+    }
+  ]
+}
