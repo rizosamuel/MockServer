@@ -12,7 +12,7 @@ You can access the mock server and its resources using the following link:
 📌 Get all Products
 
 Request:
-GET https://my-json-server.typicode.com/rizosamuel/MockServer/Products
+```GET https://my-json-server.typicode.com/rizosamuel/MockServer/Products```
 
 Response:
 Returns a list of all products in JSON format.
@@ -20,7 +20,7 @@ Returns a list of all products in JSON format.
 📌 Get a Product by ID
 
 Request:
-GET https://my-json-server.typicode.com/rizosamuel/MockServer/Products/{id}
+```GET https://my-json-server.typicode.com/rizosamuel/MockServer/Products/{id}```
 
 Response:
 Returns the product details for the given {id}.
@@ -30,7 +30,7 @@ Returns the product details for the given {id}.
     Note: Since this is a mock server, data persistence is not supported. The request will return a successful response but won’t actually create new records.
     
 Request:
-POST https://my-json-server.typicode.com/rizosamuel/MockServer/Products
+```POST https://my-json-server.typicode.com/rizosamuel/MockServer/Products```
 
 Response:
 Returns the newly created product (mocked response).
@@ -40,7 +40,7 @@ Returns the newly created product (mocked response).
     Note: Since this is a mock server, data updates are not persisted.
 
 Request:
-PUT https://my-json-server.typicode.com/rizosamuel/MockServer/Products/{id}
+```PUT https://my-json-server.typicode.com/rizosamuel/MockServer/Products/{id}```
 
 Response:
 Returns the updated product details (mocked response).
@@ -50,7 +50,7 @@ Returns the updated product details (mocked response).
     Note: The deletion is only simulated; the data will not actually be removed.
 
 Request:
-DELETE https://my-json-server.typicode.com/rizosamuel/MockServer/Products/{id}
+```DELETE https://my-json-server.typicode.com/rizosamuel/MockServer/Products/{id}```
 
 Response:
 Returns a success message indicating the product was "deleted" (mocked).
